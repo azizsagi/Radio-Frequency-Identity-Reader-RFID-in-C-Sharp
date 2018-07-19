@@ -1,0 +1,14 @@
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\bin\Debug\MainRFID.exe.config
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\bin\Debug\MainRFID.exe
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\bin\Debug\MainRFID.pdb
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\bin\Debug\RFReader.XmlApi.dll
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\obj\Debug\MainRFID.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\obj\Debug\MainRFID.Properties.Resources.resources
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\obj\Debug\MainRFID.csproj.GenerateResource.Cache
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\obj\Debug\MainRFID.exe
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\obj\Debug\MainRFID.pdb
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\obj\Debug\MainRFID.Form1.resources
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\RFID-Adeptek\MainRFID\MainRFID\bin\Debug\RFReader.XmlApi.dll.config
+C:\Users\faruk.aziz\Desktop\MainRFID\MainRFID\bin\Debug\MainRFID.exe.config
+C:\Users\faruk.aziz\Desktop\MainRFID\MainRFID\obj\Debug\MainRFID.exe
+C:\Users\faruk.aziz\Desktop\MainRFID\MainRFID\obj\Debug\MainRFID.pdb
